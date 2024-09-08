@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_15</name>
+   <tag></tag>
+   <elementGuidId>4c531a4c-3bdb-401a-bb45-c16dc38d0970</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='initiate_interstitial']/div[2]/table/tbody/tr/td/table/tbody/tr[2]/td/label/div/label/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td._k1._9o4f > label > div.uiInputLabel.clearfix.uiInputLabelLegacy > label.uiInputLabelLabel > div.marginLeft12px > div._9o1y > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>139db071-2d33-47fb-b9d8-daec16b8bf3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>60fbbe1a-accd-42f4-9e6b-e5eaa820f158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+***********15</value>
+      <webElementGuid>6a177503-4025-4f30-8db1-1fd4ed4a8895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;initiate_interstitial&quot;)/div[@class=&quot;phl ptm uiInterstitialContent&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;_9o49&quot;]/table[1]/tbody[1]/tr[2]/td[@class=&quot;_k1 _9o4f&quot;]/label[1]/div[@class=&quot;uiInputLabel clearfix uiInputLabelLegacy&quot;]/label[@class=&quot;uiInputLabelLabel&quot;]/div[@class=&quot;marginLeft12px&quot;]/div[@class=&quot;_9o1y&quot;]/div[1]</value>
+      <webElementGuid>7ef0fc25-217d-420d-8914-8872af66fc27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='initiate_interstitial']/div[2]/table/tbody/tr/td/table/tbody/tr[2]/td/label/div/label/div/div[2]/div</value>
+      <webElementGuid>00802fd1-2498-4130-9ca0-d5cd49685b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send code via WhatsApp'])[1]/following::div[2]</value>
+      <webElementGuid>5b053214-23c4-4207-868e-8991e4026110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s*****h@y*******.c*******.id'])[1]/following::div[5]</value>
+      <webElementGuid>38064e0d-7f41-4ef5-a0db-e75fe3949bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send code via SMS'])[1]/preceding::div[1]</value>
+      <webElementGuid>17adb16b-05a1-46e4-aa12-fd5844b7a6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+***********15'])[2]/preceding::div[2]</value>
+      <webElementGuid>37f98bec-4c67-4169-bb82-4fb4090ec6e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+***********15']/parent::*</value>
+      <webElementGuid>d4b0b23e-79ba-47a5-86e8-176639328e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/label/div/label/div/div[2]/div</value>
+      <webElementGuid>addaaa17-703e-4dc5-af65-e0329d70004b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+***********15' or . = '+***********15')]</value>
+      <webElementGuid>dd415dad-3b3d-471c-9ded-b58c5d4c540b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
