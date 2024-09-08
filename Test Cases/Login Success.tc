@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test katalon web</name>
+   <name>Login Success</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f1d927eb-d36b-402c-ab75-1ffeaff77d85</testCaseGuid>
+   <testCaseGuid>94a113aa-fc6c-4007-8b66-4c8233c8ea7b</testCaseGuid>
 </TestCaseEntity>
