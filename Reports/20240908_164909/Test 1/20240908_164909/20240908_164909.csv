@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test 1,Chrome 128.0.0.0,,,08-09-2024 16:49:21,08-09-2024 16:50:27,1m - 6.221s,PASSED
+,,,,,,,
+Test Cases/Login Success,Chrome 128.0.0.0,,,08-09-2024 16:49:21,08-09-2024 16:49:43,21.545s,PASSED
+"openBrowser("""")",Chrome 128.0.0.0,,,08-09-2024 16:49:22,08-09-2024 16:49:27,4.555s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 128.0.0.0,,,08-09-2024 16:49:27,08-09-2024 16:49:29,1.998s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60""), ""renda.45"")",Chrome 128.0.0.0,,,08-09-2024 16:49:29,08-09-2024 16:49:30,1.490s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ab63fc""), ""dnw+wiG3bdMMTymBo4QNrg=="")",Chrome 128.0.0.0,,,08-09-2024 16:49:30,08-09-2024 16:49:31,0.611s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ab63fc""), Keys.chord(ENTER))",Chrome 128.0.0.0,,,08-09-2024 16:49:31,08-09-2024 16:49:31,0.483s,PASSED
+delay(10),Chrome 128.0.0.0,,,08-09-2024 16:49:31,08-09-2024 16:49:42,10.168s,PASSED
+closeBrowser(),Chrome 128.0.0.0,,,08-09-2024 16:49:42,08-09-2024 16:49:43,1.443s,PASSED
+,,,,,,,
+Test Cases/Login Wrong Password,Chrome 128.0.0.0,,,08-09-2024 16:49:43,08-09-2024 16:49:59,15.621s,PASSED
+"openBrowser("""")",Chrome 128.0.0.0,,,08-09-2024 16:49:43,08-09-2024 16:49:44,1.161s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 128.0.0.0,,,08-09-2024 16:49:44,08-09-2024 16:49:46,1.719s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60""), ""renda.45"")",Chrome 128.0.0.0,,,08-09-2024 16:49:46,08-09-2024 16:49:47,1.291s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ab63fc""), ""YAQyFVBv5D4i75tKsezvKQ=="")",Chrome 128.0.0.0,,,08-09-2024 16:49:47,08-09-2024 16:49:48,0.607s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ab63fc""), Keys.chord(ENTER))",Chrome 128.0.0.0,,,08-09-2024 16:49:48,08-09-2024 16:49:49,0.669s,PASSED
+delay(5),Chrome 128.0.0.0,,,08-09-2024 16:49:49,08-09-2024 16:49:54,5.023s,PASSED
+closeBrowser(),Chrome 128.0.0.0,,,08-09-2024 16:49:54,08-09-2024 16:49:59,4.829s,PASSED
+,,,,,,,
+Test Cases/Login Wrong Password and Reinput Password,Chrome 128.0.0.0,,,08-09-2024 16:49:59,08-09-2024 16:50:27,28.555s,PASSED
+"openBrowser("""")",Chrome 128.0.0.0,,,08-09-2024 16:49:59,08-09-2024 16:50:00,1.268s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 128.0.0.0,,,08-09-2024 16:50:00,08-09-2024 16:50:02,1.385s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60""), ""renda.45"")",Chrome 128.0.0.0,,,08-09-2024 16:50:02,08-09-2024 16:50:02,0.791s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ab63fc""), ""xVYE63AXk1il5E81IzokGA=="")",Chrome 128.0.0.0,,,08-09-2024 16:50:02,08-09-2024 16:50:03,0.499s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ab63fc""), Keys.chord(ENTER))",Chrome 128.0.0.0,,,08-09-2024 16:50:03,08-09-2024 16:50:03,0.401s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Log in to Facebook/input_Not you_pass""), ""dnw+wiG3bdMMTymBo4QNrg=="")",Chrome 128.0.0.0,,,08-09-2024 16:50:03,08-09-2024 16:50:12,8.749s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Log in to Facebook/input_Not you_pass""), Keys.chord(ENTER))",Chrome 128.0.0.0,,,08-09-2024 16:50:12,08-09-2024 16:50:12,0.343s,PASSED
+delay(10),Chrome 128.0.0.0,,,08-09-2024 16:50:12,08-09-2024 16:50:22,10.011s,PASSED
+closeBrowser(),Chrome 128.0.0.0,,,08-09-2024 16:50:22,08-09-2024 16:50:27,4.839s,PASSED
